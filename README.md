@@ -23,7 +23,6 @@
 ```
 
 效果图:
-
-![效果图](http://img.blog.csdn.net/20171103165652238?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQ2VoYWU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![效果图](http://img.blog.csdn.net/20171107094334412?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQ2VoYWU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 从上述代码中可以看到，我们利用链式编程可以做到用一行代码实现绘图，有兴趣的小伙伴可以Star，[Demo传送门](https://github.com/Cehae/WDBezierPath-master)，[博客传送门](http://blog.csdn.net/Cehae/article/details/78437524)。
